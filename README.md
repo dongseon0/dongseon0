@@ -52,6 +52,7 @@
 
 ## 📫 Contact
 - 메일: ydsperfect08@ewhain.net
+- Tistory : https://dongdongtop.tistory.com
 
 
 ---
