@@ -31,6 +31,10 @@
 - 🎮 **이화여자대학교 게임제작동아리 EwhaORKA
   : 캐주얼 미니게임 JPGP** 개발
   - Repo: [JPGP-DEV](https://github.com/dongseon0/JPGP)
+ 
+- 🍵 **팀 이세개 '동AR이'** 개발
+  : 2025 가상현실 수업 팀 프로젝트, 유니티로 앱 가상현실 앱 개발
+  - Repo: [ESeGye](https://github.com/EDU-EWHA-XR-2-2025Q1/Team_ESeGye_Final)
     
 - 📷 **대학생 연합 사진동아리 Inwha 
   : 체험형 전시 사이트 Backend** 개발
@@ -39,7 +43,7 @@
 - 📚 **코칭스터디 : Generative AI 2025** 수료
 
 ### 2024
-- 🌍 **GDSC Solution Challenge 2024**  submission — 'WithMate'
+- 🌍 **GDSC Solution Challenge 2024**  submission — 'WithMate' Backend 개발
   - Repo: [WithMate-BE](https://github.com/With-Mate/WithMate-BE)
 
 ### 2023 ~ 2024
