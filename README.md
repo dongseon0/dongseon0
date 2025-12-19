@@ -28,6 +28,10 @@
 ## 🗓️ Yearly Highlights
 
 ### 2025
+- 👩‍🍳 빅데이터 응용 팀 프로젝트- **Seoul TPO Restaurant Finder** 제작
+  : TPO에 맞는 레스토랑 추천 프로그램 Backend 개발
+  - Repo: [Seoul TPO Restaurant Finder](https://github.com/dongseon0/Seoul-TPO-Restaurant-Finder.git)
+
 - 🎮 **이화여자대학교 게임제작동아리 EwhaORKA
   : 캐주얼 미니게임 JPGP** 개발
   - Repo: [JPGP-DEV](https://github.com/dongseon0/JPGP)
