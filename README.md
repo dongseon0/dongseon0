@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,7,10&height=200&section=header&text=Dongseon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <!-- 인사 -->
-<h3 align="left">안녕하세요, 이화여자대학교 컴퓨터공학과에 재학 중인 양동선입니다 ! </h3>
+<h3 align="left">안녕하세요, 이화여자대학교 컴퓨터공학과에 재학 중인 양동선입니다. 게임 프로그래머를 꿈꾸며 개발하고 있습니다. </h3>
 
 ---
 ## 🔧 Tech Stack
