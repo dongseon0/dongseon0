@@ -27,7 +27,17 @@
 ---
 ## 🗓️ Yearly Highlights
 
+### 2026
+- 🎮 졸업 프로젝트(캡스톤디자인과창업프로젝트A) **'Friendly'** 제작 중(~ing) / Team 14 BestFriend
+  : PPO를 기반으로 강화학습된 NPC가 개인 맞춤형 공포를 제공하는 공포게임
+  - Repo: [Friendly](https://github.com/dongseon0/Friendly)
+
 ### 2025
+- 🎮 제 6회 MaKING JAM 3조 참가
+  : **'보물을 찾으러 갈 시간이야!(Time to Jam)'** 개발
+  - Repo: [Time_to_JAM](https://github.com/6thMaKINGJam/Time_to_Jam)
+
+
 - 👩‍🍳 빅데이터 응용 팀 프로젝트- **Seoul TPO Restaurant Finder** 제작
   : TPO에 맞는 레스토랑 추천 프로그램 Backend 개발
   - Repo: [Seoul TPO Restaurant Finder](https://github.com/dongseon0/Seoul-TPO-Restaurant-Finder.git)
