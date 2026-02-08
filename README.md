@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,7,10&height=200&section=header&text=Dongseon's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <!-- 인사 -->
-<h3 align="left">행복한 게임 프로그래머를 지향하는 이화여대 컴퓨터공학과 양동선입니다. </h3>
+<h3 align="left"> 게임을 만드는 과정을 즐기는 게임 프로그래머, 이화여대 컴퓨터공학과 양동선입니다.
+</h3>
 
 ---
 ## 🔧 Tech Stack
