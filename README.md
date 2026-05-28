@@ -32,6 +32,13 @@
 - 🎮 졸업 프로젝트(캡스톤디자인과창업프로젝트A) **'Friendly'** 제작 중(~ing) / Team 14 BestFriend
   : PPO를 기반으로 강화학습된 NPC가 개인 맞춤형 공포를 제공하는 공포게임
   - Repo: [Friendly](https://github.com/dongseon0/Friendly)
+ 
+- 🎮 KING Craft 4팀의 **'Moran'** 데모 제작 및 배포 완료 / Team 4 AfterWork
+  : 2D 동양 서사 스토리게임, 빙의 시스템 구현. 이화여대 게임제작동아리 KING 16기 활동 중
+  - Repo: [Moran](https://github.com/dongseon0/Moran)
+
+
+---
 
 ### 2025
 - 🎮 제 6회 MaKING JAM 3조 참가
